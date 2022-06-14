@@ -7,6 +7,10 @@ console.log('测试分支1');
 
 
 console.log('这是master分支')
-function remove(){
+function remove() {
     return Math.round(Math.random())
+}
+console.log('这是测试分支ashlyn')
+function add() {
+    return Math.random()
 }
