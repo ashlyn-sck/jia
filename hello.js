@@ -4,3 +4,9 @@ console.log('第二次');
 console.log('第三次');
 console.log('第四次');
 console.log('测试分支1');
+
+
+console.log('这是master分支')
+function remove(){
+    return Math.round(Math.random())
+}
